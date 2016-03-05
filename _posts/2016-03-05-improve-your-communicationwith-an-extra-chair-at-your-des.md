@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Further exploration of Improving Software Productivity book by Randall W. Jensen, focusing on the importance of your work area facilitating collaboration'
-datePublished: '2016-03-05T19:14:38.176Z'
-dateModified: '2016-03-05T19:13:37.074Z'
+datePublished: '2016-03-05T19:15:56.993Z'
+dateModified: '2016-03-05T19:15:36.673Z'
 title: Improve your communication...with an extra chair at your desk
 author: []
 sourcePath: _posts/2016-03-05-improve-your-communicationwith-an-extra-chair-at-your-des.md
