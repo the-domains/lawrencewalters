@@ -4,15 +4,15 @@
         <description><![CDATA[Managing software development]]></description>
         <link>https://thegrid.ai/lawrencewalters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 19:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 19:06:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lawrencewalters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Improving Software Development Productivity]]></title>
-            <description><![CDATA[<article><h1>Improving Software Development Productivity</h1><p>
+            <title><![CDATA[Book: Improving Software Development Productivity]]></title>
+            <description><![CDATA[<article><h1>Book: Improving Software Development Productivity</h1><p>
 I want to share my first reaction to a new book I started reading - Improving Software Development Productivity: Effective Leadership and Quantitative Methods in Software Management by Randall W. Jensen. I realized I've been focusing my professional development on design. We've been having a little Domain Driven Design book club, so to speak, at work. I've been reading other things focused on architecture patterns as well. So I started poking around my local public library, and came across this gem. Or, rather, what I hope to be a gem after finishing the first chapter. It definitely has some of the trademarks of the standard business/self help book - the "why my idea is awesome" followed by "it's going to change your life" and "all other ideas are not as good." Yet the differences are in the citations and the sense that this is really more like an academic research paper, where the author is standing on the shoulders of giants (and citing them), to just make an incremental move upward. Also, I have to be honest that the technology references are old, spanning assembler (punch cards!), Fortran, Cobol, Ada, C++, to Visual Basic. In fact, I had to search for the publication date from multiple sources just to be sure 2015 was legit, and not just the digital print date. It looks like 2015 is real. He's definitely talking about Agile and waterfall, but is definitely making no serious argument in favor of either. I think the point he's really going to make is that personal communication and management are the keys to being more productive, and tools and process don't mean as much. Obviously, as a manager, this is pretty exciting to me. So far, he's got me hooked with these two graphs, from 1990s era research he cites. Basically this other guy, Weinberg, assess the relative impact to cost and productivity of 4 areas, and they fall out like this: </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1066ec09ba82e0788b200ecc500f5520671d4596.jpg"></article>]]></description>
             <link>https://thegrid.ai/lawrencewalters/d04107cb-6b62-4d1c-9720-25c14828edc8/index.html</link>
             <guid isPermaLink="false">d04107cb-6b62-4d1c-9720-25c14828edc8</guid>
-            <pubDate>Sat, 05 Mar 2016 19:00:48 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 19:06:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Improve your communication...with an extra chair at your desk]]></title>
