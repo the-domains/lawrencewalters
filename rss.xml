@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[lawrencewalters]]></title>
-        <description><![CDATA[lawrencewalters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Managing software development]]></title>
+        <description><![CDATA[Managing software development]]></description>
+        <link>https://thegrid.ai/lawrencewalters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 18:33:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 18:47:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lawrencewalters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Improve your communication...with an extra chair at your desk]]></title>
             <description><![CDATA[<article><h1>Improve your communication...with an extra chair at your desk</h1><p>I'm slowly getting through Improving Software Development Productivityby Randall W. Jensen, and the author has just presented his "Four Communication Commandments," which I thought were interesting to bring up. And, so sorry for the buzzfeed title, but #1 is actually most interesting to me. For me, it boils down to just having an extra chair at your desk - so someone will feel welcome to come talk (and work with) you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08c7e0255d62021de187819550770b42dcc48891.jpg"></article>]]></description>
-            <link>undefinedimprove-your-communicationwith-an-extra-chair-at-your-des/index.html</link>
+            <link>https://thegrid.ai/lawrencewalters/improve-your-communicationwith-an-extra-chair-at-your-des/index.html</link>
             <guid isPermaLink="false">2b70360e-3dce-499f-b63a-061a94c0adee</guid>
-            <pubDate>Sat, 05 Mar 2016 18:33:01 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 18:47:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
