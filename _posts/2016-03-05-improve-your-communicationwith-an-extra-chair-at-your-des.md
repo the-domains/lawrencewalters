@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Further exploration of Improving Software Productivity book by Randall W. Jensen, focusing on the importance of your work area facilitating collaboration'
-datePublished: '2016-03-05T19:03:33.362Z'
-dateModified: '2016-03-05T19:03:32.960Z'
+datePublished: '2016-03-05T19:11:10.544Z'
+dateModified: '2016-03-05T19:10:05.103Z'
 title: Improve your communication...with an extra chair at your desk
 author: []
 sourcePath: _posts/2016-03-05-improve-your-communicationwith-an-extra-chair-at-your-des.md
@@ -39,7 +39,7 @@ Summarizing the last three (because I think they are the most obvious), are, bas
 The detail of the "communication barriers" is a straightforward dissection of the modern programmer's office space focused on cube farms. To be fair, a lot of us no longer work in cube farms, but we work in the open office bastardization of them, which has a ton of the same problems. The basic premise of the critique is that at some point we realized open, semi private, communal spaces facilitate worker to worker and worker to manager communication, which is good. Read up on Herman Miller's Action Office or Robert Propst for some original thoughts. However, then came the facilities managers - "furniture police" - who's mandate was to control facilities cost, obviously. And this means maximizing the number of people per square foot, which entails a person, a chair, and a desk. And then another person, chair and desk right next to it. And another one. And so on. So - no open spaces, no unoccupied areas, no extra chairs or workspaces. The purported impact of this cost efficiency is lots of walls and very little person to person communication, especially any kind of collaboration that requires sitting together for an extended period.
 
 Reading this, it seems very obvious. It is also a serious indictment of most office spaces I've worked in. At Enova, we moved into new space last year, the execution of the floorplan turns out to be terrible in hindsight. There were two main fixed seating styles (photos taken shamelessly from [Office Snapshots][1]):
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43aae210-3825-4a36-b624-348331920dfd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/08c7e0255d62021de187819550770b42dcc48891.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58431060-4020-49af-9df8-7a8cb931c6f5.jpg)
 
 The top example - hotel desks, almost completely isolated, nowhere for any coworker to sit next to you to collaborate, as well as a high traffic aisle behind that can be very distracting. The right example gives a nod to collaboration with the padded drawer area between stations, except in the foreground, the huge desk that sticks out wraps another station completely in desktop, preventing anyone from sitting with you.
