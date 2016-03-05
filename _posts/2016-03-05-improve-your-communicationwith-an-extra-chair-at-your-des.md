@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Further exploration of Improving Software Productivity book by Randall W. Jensen, focusing on the importance of your work area facilitating collaboration'
-datePublished: '2016-03-05T19:55:49.433Z'
-dateModified: '2016-03-05T19:55:37.647Z'
+datePublished: '2016-03-05T19:57:49.625Z'
+dateModified: '2016-03-05T19:57:17.101Z'
 title: Improve your communication... with an extra chair at your desk
 author: []
 sourcePath: _posts/2016-03-05-improve-your-communicationwith-an-extra-chair-at-your-des.md
@@ -31,7 +31,9 @@ The "commandments" as he puts them are:
 * Thou Shalt Not Construct Communication Barriers
 * Thou Shalt Dedicate the Project Area
 * Thou Shalt Provide Utensils for Creative Work
-* Thou Shalt Not Share Resources Summarizing the last three (because I think they are the most obvious), are, basically, you need a space for people to work where they aren't distracted by other projects. They should have simple utensils (eg whiteboards) for radiating information to each other. And the team should be dedicated - don't have the people distracted by two different competing concerns (projects).
+* Thou Shalt Not Share Resources 
+
+Summarizing the last three (because I think they are the most obvious), are, basically, you need a space for people to work where they aren't distracted by other projects. They should have simple utensils (eg whiteboards) for radiating information to each other. And the team should be dedicated - don't have the people distracted by two different competing concerns (projects).
 
 The detail of the "communication barriers" is a straightforward dissection of the modern programmer's office space focused on cube farms. To be fair, a lot of us no longer work in cube farms, but we work in the open office bastardization of them, which has a ton of the same problems. The basic premise of the critique is that at some point we realized open, semi private, communal spaces facilitate worker to worker and worker to manager communication, which is good. Read up on Herman Miller's Action Office or Robert Propst for some original thoughts. However, then came the facilities managers - "furniture police" - who's mandate was to control facilities cost, obviously. And this means maximizing the number of people per square foot, which entails a person, a chair, and a desk. And then another person, chair and desk right next to it. And another one. And so on. So - no open spaces, no unoccupied areas, no extra chairs or workspaces. The purported impact of this cost efficiency is lots of walls and very little person to person communication, especially any kind of collaboration that requires sitting together for an extended period.
 
