@@ -2,12 +2,13 @@ name: lawrencewalters
 favicon: null
 layout_spectrum: 0.6251124346163124
 typography_spectrum: 0.720184040023014
+title: Managing software development
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-60590037-2
   facebook: null
   twitter: null
 opengraph:
