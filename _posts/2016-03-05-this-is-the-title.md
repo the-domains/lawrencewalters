@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T20:07:47.666Z'
-dateModified: '2016-03-05T20:07:47.171Z'
+datePublished: '2016-03-05T20:08:59.052Z'
+dateModified: '2016-03-05T20:08:48.348Z'
 title: This is the title
 author: []
+sourcePath: _posts/2016-03-05-this-is-the-title.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-this-is-the-title.md
-published: true
 url: this-is-the-title/index.html
 _type: Article
 
