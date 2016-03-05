@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Further exploration of Improving Software Productivity book by Randall W. Jensen, focusing on the importance of your work area facilitating collaboration'
-datePublished: '2016-03-05T19:57:49.625Z'
-dateModified: '2016-03-05T19:57:17.101Z'
+datePublished: '2016-03-05T20:02:55.100Z'
+dateModified: '2016-03-05T20:02:50.451Z'
 title: Improve your communication... with an extra chair at your desk
 author: []
 sourcePath: _posts/2016-03-05-improve-your-communicationwith-an-extra-chair-at-your-des.md
@@ -29,8 +29,11 @@ I'm slowly getting through [Improving Software Development Productivity][0]by Ra
 The "commandments" as he puts them are:
 
 * Thou Shalt Not Construct Communication Barriers
+
 * Thou Shalt Dedicate the Project Area
+
 * Thou Shalt Provide Utensils for Creative Work
+
 * Thou Shalt Not Share Resources 
 
 Summarizing the last three (because I think they are the most obvious), are, basically, you need a space for people to work where they aren't distracted by other projects. They should have simple utensils (eg whiteboards) for radiating information to each other. And the team should be dedicated - don't have the people distracted by two different competing concerns (projects).
