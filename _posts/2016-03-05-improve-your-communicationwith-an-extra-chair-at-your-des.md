@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Further exploration of Improving Software Productivity book by Randall W. Jensen, focusing on the importance of your work area facilitating collaboration'
-datePublished: '2016-03-05T18:33:01.895Z'
-dateModified: '2016-03-05T18:32:55.874Z'
+datePublished: '2016-03-05T18:47:34.060Z'
+dateModified: '2016-03-05T18:46:39.028Z'
 title: Improve your communication...with an extra chair at your desk
 author: []
+sourcePath: _posts/2016-03-05-improve-your-communicationwith-an-extra-chair-at-your-des.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-improve-your-communicationwith-an-extra-chair-at-your-des.md
-published: true
 url: improve-your-communicationwith-an-extra-chair-at-your-des/index.html
 _type: Article
 
@@ -26,10 +26,13 @@ I'm slowly getting through [Improving Software Development Productivity][0]by Ra
 
 The "commandments" as he puts them are:
 
-1. Thou Shalt Not Construct Communication Barriers
-2. Thou Shalt Dedicate the Project Area
-3. Thou Shalt Provide Utensils for Creative Work
-4. Thou Shalt Not Share Resources
+1\. Thou Shalt Not Construct Communication Barriers
+
+2\. Thou Shalt Dedicate the Project Area
+
+3\. Thou Shalt Provide Utensils for Creative Work
+
+4\. Thou Shalt Not Share Resources
 
 Summarizing the last three (because I think they are the most obvious), are, basically, you need a space for people to work where they aren't distracted by other projects. They should have simple utensils (eg whiteboards) for radiating information to each other. And the team should be dedicated - don't have the people distracted by two different competing concerns (projects).
 
@@ -39,7 +42,7 @@ Reading this, it seems very obvious. It is also a serious indictment of most off
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43aae210-3825-4a36-b624-348331920dfd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58431060-4020-49af-9df8-7a8cb931c6f5.jpg)
 
-The left example - hotel desks, almost completely isolated, nowhere for any coworker to sit next to you to collaborate, as well as a high traffic aisle behind that can be very distracting. The right example gives a nod to collaboration with the padded drawer area between stations, except in the foreground, the huge desk that sticks out wraps another station completely in desktop, preventing anyone from sitting with you.
+The top example - hotel desks, almost completely isolated, nowhere for any coworker to sit next to you to collaborate, as well as a high traffic aisle behind that can be very distracting. The right example gives a nod to collaboration with the padded drawer area between stations, except in the foreground, the huge desk that sticks out wraps another station completely in desktop, preventing anyone from sitting with you.
 
 There is actually a third option - the team room, which varies in it's success, mostly based on how many people were required to be crammed into it. They were "designed" for 8 people. Really, they weren't designed at all - we would have "seats" for pretty much everyone in Software Engineering if 8 people went in each of the team rooms. I lucked into having 5 people in mine. We were used to working elbow to elbow with laptops at a central table in our old office, so we pushed the desks together in the center to achieve that same design. 
 
