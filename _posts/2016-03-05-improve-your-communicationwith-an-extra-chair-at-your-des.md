@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Further exploration of Improving Software Productivity book by Randall W. Jensen, focusing on the importance of your work area facilitating collaboration'
-datePublished: '2016-03-05T19:15:56.993Z'
-dateModified: '2016-03-05T19:15:36.673Z'
-title: Improve your communication...with an extra chair at your desk
+datePublished: '2016-03-05T19:25:57.085Z'
+dateModified: '2016-03-05T19:25:36.460Z'
+title: Improve your communication... with an extra chair at your desk
 author: []
 sourcePath: _posts/2016-03-05-improve-your-communicationwith-an-extra-chair-at-your-des.md
 published: true
@@ -22,17 +22,16 @@ url: improve-your-communicationwith-an-extra-chair-at-your-des/index.html
 _type: Article
 
 ---
+# Improve your communication... with an extra chair at your desk
+
 I'm slowly getting through [Improving Software Development Productivity][0]by Randall W. Jensen, and the author has just presented his "Four Communication Commandments," which I thought were interesting to bring up. And, so sorry for the buzzfeed title, but \#1 is actually most interesting to me. For me, it boils down to just having an extra chair at your desk - so someone will feel welcome to come talk (and work with) you.
 
 The "commandments" as he puts them are:
 
-1\. Thou Shalt Not Construct Communication Barriers
-
-2\. Thou Shalt Dedicate the Project Area
-
-3\. Thou Shalt Provide Utensils for Creative Work
-
-4\. Thou Shalt Not Share Resources
+* Thou Shalt Not Construct Communication Barriers
+* Thou Shalt Dedicate the Project Area
+* Thou Shalt Provide Utensils for Creative Work
+* Thou Shalt Not Share Resources
 
 Summarizing the last three (because I think they are the most obvious), are, basically, you need a space for people to work where they aren't distracted by other projects. They should have simple utensils (eg whiteboards) for radiating information to each other. And the team should be dedicated - don't have the people distracted by two different competing concerns (projects).
 
